@@ -18,12 +18,6 @@ npm run dev
 ```
 
 
-
-
-
-## 关于 数据接口 的说明🤔
-
-
 # 效果演示
 
 [查看demo请戳这里](http://cangdu.org/elm/)（请用chrome手机模式预览）
@@ -60,21 +54,6 @@ npm run dev
 - [x] 红包 -- 完成
 - [x] 上传头像 -- 完成
 - [ ] 付款 -- 臣妾做不到啊~~
-
-
-
-# 最终目标
-
-1、用node.js构建一个模拟外卖平台的后台系统。[地址在这里](https://github.com/bailicangdu/node-elm)
-
-2、利用 react-native 写出跨 Android 和 IOS 的原生APP版本。[地址在这里](https://github.com/bailicangdu/React-Native-elm)
-
-3、如果时间来的及，会出一卖家版本。
-
-所以我的目的是构建一个横跨前后端，移动IOS、Android的完整生态圈。
-
-。。。敬请期待
-
 
 
 
